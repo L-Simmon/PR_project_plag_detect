@@ -1,0 +1,2 @@
+# PR_project_plag_detect
+模式识别大作业简单查重实现
