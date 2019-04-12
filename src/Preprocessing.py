@@ -107,9 +107,3 @@ class Preprocess():
                     self.for_find_sen += [s]
         return sentences_tokenized
 
-
-if __name__ == '__main__':
-    paragraph = "生活对我们任何人来说都不容易！我们必须努力，最重要的是我们必须相信自己。 \
-    我们必须相信，我们每个人都能够做得很好，而且，当我们发现这是什么时，我们必须努力工作，直到我们成功。"
-    P = Preprocess(paragraph, mode='cn')
-    print((P.sentences_tokenized))
