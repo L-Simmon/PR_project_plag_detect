@@ -10,7 +10,7 @@ gensim
 
 jieba (if use Chinese corpus)
 
-nltk (if use English corpus)
+~~nltk (if use English corpus)
 
 ## Usage
 - download any pre-trained Chinese word vectors from here: [[Embedding/Chinese-Word-Vectors: 100+ Chinese Word Vectors]](https://github.com/Embedding/Chinese-Word-Vectors)
