@@ -1,6 +1,6 @@
 # PR_project_plag_detect
 模式识别大作业简单查重实现，对一系列**中文**文本，查询其与语料库[[LCMC]](http://ota.ox.ac.uk/scripts/download.php?otaid=2474)的相似度情况。
-
+运行很慢，实际上，我使用稀疏矩阵优化了一个较快的版本，懒得整理了。
 ## Requirments
 python 3.6
 
